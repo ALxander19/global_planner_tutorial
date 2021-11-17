@@ -8,3 +8,4 @@ $ git clone https://github.com/ALxander19/global_planner_tutorial.git
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 $ roslaunch tb3_nav_tutorial turtlebot3_navigation.launch
 ´´´
+
